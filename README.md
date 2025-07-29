@@ -67,8 +67,10 @@ It allows side-by-side comparison of task execution time and system limits.
 
 [📹 Watch Screen Recording Demo](https://github.com/shreyashp47/Coroutines-internals/raw/main/ss/Screen_recording_20250729_123048.mp4)
 
+<video src="https://github.com/user-attachments/assets/220c5b20-74f9-4968-8852-7f10c9ac626c4" controls width="500">
+  Your browser does not support the video tag.
+</video>
 
-https://github.com/user-attachments/assets/220c5b20-74f9-4968-8852-7f10c9ac626c
 
 
 
