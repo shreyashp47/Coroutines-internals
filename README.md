@@ -62,7 +62,6 @@ It allows side-by-side comparison of task execution time and system limits.
 - Launching 100,000 threads may cause an `OutOfMemoryError`
 - Coroutine-based experiment is the most memory-efficient
 - This project is intended for educational and benchmarking purposes
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-![Watch the video](https://youtube.com/shorts/oxJ5kxKih3s)
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=oxJ5kxKih3s) 
 
 
