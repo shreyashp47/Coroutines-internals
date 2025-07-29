@@ -63,6 +63,6 @@ It allows side-by-side comparison of task execution time and system limits.
 - Coroutine-based experiment is the most memory-efficient
 - This project is intended for educational and benchmarking purposes
 
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://github.com/shreyashp47/Coroutines-internals/blob/main/ss/Screen_recording_20250729_123048.mp4)
+[![Watch the video](https://github.com/shreyashp47/Coroutines-internals/blob/main/ss/Kotlin%20Jetpack%20Compose%20Clean%20Architecture%20Hilt%20CICD-2.png)](https://github.com/shreyashp47/Coroutines-internals/blob/main/ss/Screen_recording_20250729_123048.mp4)
 
 
