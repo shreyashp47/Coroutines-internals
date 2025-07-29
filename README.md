@@ -63,6 +63,6 @@ It allows side-by-side comparison of task execution time and system limits.
 - Coroutine-based experiment is the most memory-efficient
 - This project is intended for educational and benchmarking purposes
 
-https://github.com/shreyashp47/Coroutines-internals/blob/main/ss/Screen_recording_20250729_123048.mp4
+<video src="https://github.com/shreyashp47/Coroutines-internals/blob/main/ss/Screen_recording_20250729_123048.mp4" width="320" height="240" controls></video>
 
 
